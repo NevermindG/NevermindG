@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @NevermindG
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning more from my colleagues and my mistakes
-- 💞️ I’m looking to collaborate on open source projects preferably with Java/Kotlin with Spring boot
-- 💻 I currently work as a Web Developer
-
+- 👀 I’m software development
 
 <!---
 NevermindG/NevermindG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
