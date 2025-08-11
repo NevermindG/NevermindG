@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gonzalo
-- 👀 I’m software development
+- 👀 I’m software developer
 
 <!---
 NevermindG/NevermindG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
