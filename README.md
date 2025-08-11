@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NevermindG
+- 👋 Hi, I’m Gonzalo
 - 👀 I’m software development
 
 <!---
